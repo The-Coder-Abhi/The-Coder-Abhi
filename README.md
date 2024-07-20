@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @The-Coder-Abhi
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning TYBSC-IT
+- 🌱 I’m currently learning in TYBSC-IT
 - 📫 How to reach me : Gmail: abhishekshelar2003@gmail.com
 
 <!---
